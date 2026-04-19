@@ -2,3 +2,9 @@
 	path = pro
 	url = https://github.com/SynkraAI/aios-pro.git
 	branch = main
+[submodule "squads/design"]
+	path = squads/design
+	url = https://github.com/ArchPrime-official/PrimeSquads-design.git
+[submodule "squads/squad-creator"]
+	path = squads/squad-creator
+	url = https://github.com/ArchPrime-official/PrimeSquads-squad-creator.git
